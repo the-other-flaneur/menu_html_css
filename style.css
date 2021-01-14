@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #FAF9E8;
+    color:
+}
+
+.wrapper {
+    width: 500px;
+    margin: auto;
+    position: relative;
+}
+
+.title-wrapper {
+    text-align: center;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.menu {
+
+}
+
+.multiple-menu {
+    margin-top: 10px;
+}
+
+.menu-subtitle {
+    margin-top: 5px;
+}
+
+.quote {
+    text-align: center;
+}
+
+.single-menu {
+    border-top: 1px dotted #999;
+    padding-top: 5px;
+}
+
+span {
+    float: right;
+}
