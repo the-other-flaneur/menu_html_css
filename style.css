@@ -6,23 +6,26 @@
 
 body {
     background-color: #FAF9E8;
-    color:
+    color: #333333;
 }
 
 .wrapper {
-    width: 500px;
+    width: 90%;
     margin: auto;
-    position: relative;
+    margin-bottom: 20px;
 }
 
 .title-wrapper {
     text-align: center;
     height: 100px;
     margin-top: 20px;
+    
 }
 
-.menu {
-
+.center {
+    border-bottom: 2px solid #E64B40;
+    width: 50%;
+    margin: auto;
 }
 
 .multiple-menu {
@@ -40,8 +43,10 @@ body {
 .single-menu {
     border-top: 1px dotted #999;
     padding-top: 5px;
+    display: flex;
+    justify-content: space-between;
 }
 
-span {
-    float: right;
+.description {
+    margin-right: 2px;
 }
