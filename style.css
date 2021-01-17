@@ -9,6 +9,15 @@ body {
     color: #333333;
 }
 
+h1 {
+    font-size: 3rem;
+    color: #cc281d;
+}
+
+#trattoria {
+    font-size: 1.5rem;
+}
+
 .wrapper {
     width: 90%;
     margin: auto;
@@ -19,11 +28,10 @@ body {
     text-align: center;
     height: 100px;
     margin-top: 20px;
-    
 }
 
 .center {
-    border-bottom: 2px solid #E64B40;
+    border-bottom: 2px solid #cc281d;
     width: 50%;
     margin: auto;
 }
