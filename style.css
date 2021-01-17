@@ -9,15 +9,6 @@ body {
     color: #333333;
 }
 
-h1 {
-    font-size: 3rem;
-    color: #cc281d;
-}
-
-#trattoria {
-    font-size: 1.5rem;
-}
-
 .wrapper {
     width: 90%;
     margin: auto;
