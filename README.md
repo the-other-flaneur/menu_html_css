@@ -1,1 +1,4 @@
-# menu_html_css
+
+## Online Responsive Food Menu
+
+Made with only HTML and CSS.
